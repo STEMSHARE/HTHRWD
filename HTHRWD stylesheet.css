@@ -26,3 +26,9 @@ a {
 body {
     background-color: #c2e2fb;
 }
+
+img {
+    padding: 20px;
+    height: 100px;
+    width: 100px;
+}
