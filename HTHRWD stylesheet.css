@@ -27,3 +27,6 @@ body {
     background-color: #c2e2fb;
 }
 
+img {
+    transform: translateY(20px)
+}
