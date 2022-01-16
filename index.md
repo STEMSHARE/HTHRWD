@@ -16,7 +16,6 @@
     h1 {
         display: flex;
         justify-content: center;
-        color: black;
         line-height: 20px;
         padding: 20px;
         color: white;
