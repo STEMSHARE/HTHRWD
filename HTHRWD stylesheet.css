@@ -1,0 +1,24 @@
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Trebuchet MS', 'Arial', 'sans-serif';
+    text-align: center;
+    font-size: 40px;
+    font-weight: bolder;
+    line-height: 20px;
+    padding: 10px;
+    font-feature-settings: "kern";
+    color: black;
+}
+
+a {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    color: black;
+    text-decoration: none;
+    font-weight: bolder;
+    line-height: 10px;
+    padding: 20px;
+    font-feature-settings: "kern";
+}
