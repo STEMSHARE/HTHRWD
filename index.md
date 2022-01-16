@@ -4,14 +4,14 @@
         <link href="HTHRWD stylesheet.css" rel='stylesheet'>
     </head>
     <body>
-                <style>
+           <style>
             .scroll-left {
-             height: 30px;	
+             height: 60px;	
              overflow: hidden;
              position: relative;
              background: white;
              color: black;
-             border: 1px solid transparent;
+             border: 5px solid transparent;
              font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
              font-weight: bolder;
              font-size: 40px;
