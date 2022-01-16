@@ -43,13 +43,8 @@
             content: "JEWELRY LP";
         }
     }
-    body {
-      background-image: url('https://cdn.discordapp.com/attachments/931924888254550058/931930674699579432/IMG_0896.png');
-      background-attachment: fixed;
-      background-position: center;
-      background-size: contain;
-    }
   </style>
+        <img src='https://cdn.discordapp.com/attachments/931924888254550058/931930674699579432/IMG_0896.png'>
         <a>BANDCAMP</a>
         <a href="https://www.instagram.com/heathxrwood/">INSTAGRAM</a>
     </body>
