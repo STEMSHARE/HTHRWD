@@ -4,11 +4,13 @@
         <link href="HTHRWD stylesheet.css" rel='stylesheet'>
     </head>
     <body>
-             <h1><span></span></h1>
-                          <style>
+        <h1><span></span></h1>
+        <style>
     h1 {
-        background: white;
+        background: none;
         line-height: 20px;
+        padding: 20px;
+        color: white;
     }
   
     h1 {
@@ -16,6 +18,9 @@
         justify-content: center;
         color: black;
         line-height: 20px;
+        padding: 20px;
+        color: white;
+        transform: translateY(50%);
     }
   
     span::before {
@@ -33,10 +38,18 @@
         50% {
             content: "01/21/22"
         }
+
+        75% {
+            content: "JEWELRY LP";
+        }
     }
-</style>
-           
-        <img src="https://cdn.discordapp.com/attachments/931924888254550058/931930674699579432/IMG_0896.png">
+    body {
+      background-image: url('https://cdn.discordapp.com/attachments/931924888254550058/931930674699579432/IMG_0896.png');
+      background-attachment: fixed;
+      background-position: center;
+      background-size: contain;
+    }
+  </style>
         <a>BANDCAMP</a>
         <a href="https://www.instagram.com/heathxrwood/">INSTAGRAM</a>
     </body>
