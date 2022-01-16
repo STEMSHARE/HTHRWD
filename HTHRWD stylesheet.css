@@ -22,3 +22,7 @@ a {
     padding: 20px;
     font-feature-settings: "kern";
 }
+
+body {
+    background-color: #c2e2fb;
+}
