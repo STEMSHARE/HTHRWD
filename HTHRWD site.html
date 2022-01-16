@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
     <head>
         <title>HTHRWD: JEWELRY LP OUT 01/21/22</title>
