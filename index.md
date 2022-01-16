@@ -4,15 +4,17 @@
         <link href="HTHRWD stylesheet.css" rel='stylesheet'>
     </head>
     <body>
-                   <style>
+                          <style>
     h1 {
         background: white;
+        line-height: 20px;
     }
   
     h1 {
         display: flex;
         justify-content: center;
         color: black;
+        line-height: 20px;
     }
   
     span::before {
@@ -31,7 +33,7 @@
             content: "01/21/22"
         }
     }
-</style>            
+</style>
            
         <img src="https://cdn.discordapp.com/attachments/931924888254550058/931930674699579432/IMG_0896.png">
         <a>BANDCAMP</a>
